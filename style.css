@@ -1,0 +1,10 @@
+body {
+    background-color: #FFF;
+    color: #282828;
+    font-family: 'Raleway', sans-serif;
+}
+
+div#wrapper {
+    margin: 10px auto;
+    max-width: 500px;
+}
